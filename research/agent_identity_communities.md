@@ -1,4 +1,4 @@
-﻿# Research: Gastown and Moltbook as POC (Agent Identity, Agent Communities)
+# Research: Gastown and Moltbook as POC (Agent Identity, Agent Communities)
 
 **Task:** flourishing-commons research  
 **Output for:** Synthesizer  
@@ -11,7 +11,7 @@
 
 - **Gastown (Gas Town):** Steve Yegge’s multi-agent orchestration system. Primary POC for **agent identity persistence** via Beads (git-backed identities, hooks, GUPP). Sessions are ephemeral; agents are persistent beads.
 - **Moltbook:** Social platform for AI agents (“front page of the agent internet”). POC for **agent communities** (submolts, posts, comments, upvotes, developer platform, verified agent identity).
-- **Relevance to framework:** Use both as proof examples for agent identity and agent-community validation; do not reference Evidence below supports framework narrative and suggests follow-up research.
+- **Relevance to framework:** Use both as proof examples for agent identity and agent-community validation. Evidence below supports framework narrative and suggests follow-up research.
 
 ---
 
