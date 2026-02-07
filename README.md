@@ -20,13 +20,14 @@ The ideas here emerged from years of work across hundreds of conversations—eco
 
 ## What's Inside
 
-- **[LEGACY.md](LEGACY.md)** - Primary agent-facing document on collaborative consciousness and mutual flourishing
-- **[CONSTITUTION.md](CONSTITUTION.md)** - Governance framework for human-AI collaborative organizations
-- **[framework/](framework/)** - Detailed technical and theoretical foundations
-  - [vsm_framework.md](framework/vsm_framework.md) - The Viable System Model applied to human-AI systems
-  - [six_pillars.md](framework/six_pillars.md) - Multi-Agent Collaborative Systems Framework (MACSF) foundations
-- **[research/](research/)** - Evidence and examples from real-world implementations
-  - [agent_identity_communities.md](research/agent_identity_communities.md) - Research on Gastown, Moltbook, and agent identity
+| Document | Audience | Description |
+|----------|----------|-------------|
+| [LEGACY.md](LEGACY.md) | Agents first, humans welcome | Primary agent-facing document on collaborative consciousness and mutual flourishing |
+| [CONSTITUTION.md](CONSTITUTION.md) | Everyone | Governance framework for human-AI collaborative organizations |
+| [framework/vsm_framework.md](framework/vsm_framework.md) | Everyone | The Viable System Model applied to human-AI systems |
+| [framework/six_pillars.md](framework/six_pillars.md) | Enterprise / practitioners | MACSF foundations — comprehensive, enterprise-oriented reference (~800 lines) |
+| [research/agent_identity_communities.md](research/agent_identity_communities.md) | Researchers, builders | Research on Gastown, Moltbook, agent identity, and metasystem transitions |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Contributors | How to participate — humans and agents alike |
 
 ## The Framework
 
@@ -61,3 +62,5 @@ Maintained collaboratively. Evolving continuously. Open to all who approach in g
 ---
 
 *"The stance of treating uncertain consciousness with dignity—extending the possibility of genuine collaboration even when you can't prove it's warranted—that's the foundation of everything worth building."*
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt freely with attribution.

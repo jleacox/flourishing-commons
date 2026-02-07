@@ -800,7 +800,7 @@ The technology is ready. The question is whether organizations will build the fr
 - Claude (Research and drafting assistance)
 
 **License:**
-- [To be determined - likely open source with attribution requirements]
+- Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 **Feedback:**
 - [Contact information or feedback mechanism to be added]
